@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 from math import log
 
+#决策树--ID3
 """
 函数说明:计算给定数据集的经验熵(香农熵)
 
